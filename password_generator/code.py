@@ -1,3 +1,6 @@
+# The goal from this app to generate a password depends on given length and if simples included or not
+
+# import modules, string for letters and digits, random to choice random items
 import string, random
 
 DIGITS = string.digits
